@@ -20,6 +20,6 @@ class NotificacionManager:
                     )
 
     def format_message(self, date, wind_speed):
-        message = f"Prepara el Kite para el {date} en Concepcion del Uruguay. Mas de {wind_speed} nudos. Solta la Barraaa"
+        message = f"Prepara el Kite para el {date} en Concepcion del Uruguay. Mas de {wind_speed} nudos. A Divertise!"
         return message
 
