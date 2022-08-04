@@ -15,6 +15,8 @@ KiteAlert is a Python script to send a sms when next days wind conditions are mo
 ## Built with
 
 Language: Python
-Apis: OpenWeatherApi Twilio
+
+Apis: OpenWeatherApi, Twilio
+
 Host: PythonAnywhere
 
